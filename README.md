@@ -32,7 +32,6 @@ students and companies.
 5. NetBEans IDE 7.3.1
 6. JSP
 7. HeidiSQL
-8. 
 
 ## Deployment
 
